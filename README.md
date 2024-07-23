@@ -21,3 +21,5 @@ Travel Trekker is a comprehensive travel management web application designed to 
 -cd backend
 -npm install
 -npm start
+
+Note : For the video, kindly download the raw version
